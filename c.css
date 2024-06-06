@@ -1,0 +1,6 @@
+h1 > b{
+  color: red;
+}
+h2 + b{
+  color: blue;
+}

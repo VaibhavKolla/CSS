@@ -1,0 +1,31 @@
+#hello {
+  text-align: center;
+  letter-spacing: 15px;
+}
+
+h2 {
+  text-align: justify;
+  text-decoration-line: underline;
+}
+
+#val {
+  text-align-last: center;
+  text-decoration-line: line-through;
+  text-decoration-color: red;
+  text-decoration-thickness: 5px;
+  text-transform: uppercase;
+
+}
+
+#new {
+  text-align: center;
+  text-decoration: overline underline;
+  text-decoration-style: dotted;
+  text-decoration-color: green;
+  text-transform: capitalize;
+}
+
+#rew {
+  text-align: center;
+  text-transform: lowercase;
+}

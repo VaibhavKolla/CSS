@@ -1,0 +1,28 @@
+table,
+th,
+td {
+  border: 2px solid;
+  width: 50%;
+  border-collapse: collapse;
+}
+
+th {
+  height: 40px;
+}
+
+tr {
+  text-align: left;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+tr:hover {
+  background-color: yellow;
+}
+
+th:hover {
+  background-color: lime;
+}
